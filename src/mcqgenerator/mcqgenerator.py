@@ -62,3 +62,4 @@ review_chain=LLMChain(llm=llm,prompt=quiz_evaluation_promt,output_key='review',v
 
 generate_evaluate_chain=SequentialChain(chains=[quiz_chain, review_chain], input_variables=["text", "number", "subject", "tone", "response_json"],
                                         output_variables=["quiz", "review"], verbose=True,)
+ 
