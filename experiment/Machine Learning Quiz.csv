@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What was the term used to refer to self-teaching computers in the early days of machine learning?,a: Artificial Intelligence | b: Neural Networks | c: Machine Learning | d: Self-teaching Computers,d
-Which scientist proposed a theoretical neural structure formed by interactions among nerve cells in 1949?,a: Arthur Samuel | b: Donald Hebb | c: Alan Turing | d: Walter Pitts,b
-Which learning algorithm is used for clustering data by grouping similar data points into clusters?,a: Reinforcement Learning | b: Supervised Learning | c: Unsupervised Learning | d: K-means Clustering,d
-What is the term used to describe the process of reducing the number of random variables under consideration by obtaining a set of principal variables?,a: Dimensionality Reduction | b: Feature Learning | c: Regression Analysis | d: Genetic Algorithms,a
-What is the method used to validate machine learning models by splitting the data into training and test sets?,a: Holdout Method | b: Bootstrap Method | c: K-fold Cross-validation | d: TOC Method,a
+"What term was coined in 1959 by Arthur Samuel, an IBM employee and pioneer in the field of computer gaming and artificial intelligence?",a: Data Science | b: Machine Learning | c: Artificial Intelligence | d: Neural Networks,b
+What is the purpose of machine learning in classifying data?,a: To predict future outcomes | b: To develop models | c: To analyze historical data | d: To classify data based on developed models,d
+Which algorithm is used for clustering in unsupervised machine learning?,a: Decision Trees | b: Support Vector Machines | c: K-means Clustering | d: Genetic Algorithms,c
+What is the main concern with machine learning models trained on biased datasets?,a: They are more accurate | b: They are less efficient | c: They may exhibit biases | d: They have higher costs,c
+What is the primary goal of Explainable AI (XAI)?,a: To make AI systems more complex | b: To hide the decision-making process | c: To ensure humans can understand AI decisions | d: To increase algorithmic bias,c
