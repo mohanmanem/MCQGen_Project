@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is the term used to describe machine learning models that rely on a collection of connected units called artificial neurons?,a: Support-vector machines | b: Decision trees | c: Artificial neural networks | d: Gaussian processes,c
-Which technique is used to reduce the number of random variables under consideration by obtaining a set of principal variables?,a: Regression analysis | b: Dimensionality reduction | c: Bayesian networks | d: Genetic algorithms,b
-What is the name of the probabilistic graphical model that represents a set of random variables with a directed acyclic graph?,a: Decision tree learning | b: Gaussian processes | c: Bayesian networks | d: Support-vector machines,c
-What is the term used to describe a search algorithm and heuristic technique that mimics the process of natural selection?,a: Regression analysis | b: Genetic algorithms | c: Belief functions | d: Explainable AI,b
-What is the potential risk associated with machine learning models trained on biased datasets?,a: Underfitting | b: Overfitting | c: Algorithmic bias | d: Explainability issues,c
+What was the term used to refer to self-teaching computers in the early days of machine learning?,a: Artificial Intelligence | b: Neural Networks | c: Machine Learning | d: Self-teaching Computers,d
+Which scientist proposed a theoretical neural structure formed by interactions among nerve cells in 1949?,a: Arthur Samuel | b: Donald Hebb | c: Alan Turing | d: Walter Pitts,b
+Which learning algorithm is used for clustering data by grouping similar data points into clusters?,a: Reinforcement Learning | b: Supervised Learning | c: Unsupervised Learning | d: K-means Clustering,d
+What is the term used to describe the process of reducing the number of random variables under consideration by obtaining a set of principal variables?,a: Dimensionality Reduction | b: Feature Learning | c: Regression Analysis | d: Genetic Algorithms,a
+What is the method used to validate machine learning models by splitting the data into training and test sets?,a: Holdout Method | b: Bootstrap Method | c: K-fold Cross-validation | d: TOC Method,a
