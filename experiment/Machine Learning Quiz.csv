@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-"What term was coined in 1959 by Arthur Samuel, an IBM employee and pioneer in the field of computer gaming and artificial intelligence?",a: Data Science | b: Machine Learning | c: Artificial Intelligence | d: Neural Networks,b
-What is the purpose of machine learning in classifying data?,a: To predict future outcomes | b: To develop models | c: To analyze historical data | d: To classify data based on developed models,d
-Which algorithm is used for clustering in unsupervised machine learning?,a: Decision Trees | b: Support Vector Machines | c: K-means Clustering | d: Genetic Algorithms,c
-What is the main concern with machine learning models trained on biased datasets?,a: They are more accurate | b: They are less efficient | c: They may exhibit biases | d: They have higher costs,c
-What is the primary goal of Explainable AI (XAI)?,a: To make AI systems more complex | b: To hide the decision-making process | c: To ensure humans can understand AI decisions | d: To increase algorithmic bias,c
+What was the term used to describe self-teaching computers in the early days of machine learning?,a: Artificial Intelligence | b: Neural Networks | c: Self-Teaching Computers | d: Cybertron,c
+Which method is used to reduce the number of random variables under consideration in machine learning?,a: Principal Component Analysis | b: Regression Analysis | c: Genetic Algorithms | d: Gaussian Processes,a
+What is the primary goal of reinforcement learning in machine learning?,a: To predict future outcomes based on models | b: To classify data based on developed models | c: To maximize cumulative reward through actions in an environment | d: To reduce overfitting in training models,c
+What is a key challenge associated with machine learning models that are trained on biased datasets?,a: Overfitting | b: Algorithmic Bias | c: Underfitting | d: Model Explainability,b
+Which method is used to validate the accuracy of machine learning models by splitting the data into training and test sets?,a: Principal Component Analysis | b: Regression Analysis | c: Holdout Method | d: Genetic Algorithms,c
