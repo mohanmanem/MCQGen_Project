@@ -21,7 +21,7 @@ load_dotenv()
 #Access the environemnt variables  just like you would with os.environ
 KEY=os.getenv("OPENAI_API_KEY")
 #Calling ChatOpenAI
-llm=ChatOpenAI(openai_api_key=KEY,model_name='gpt-3.5-turbo',temperature=0.7)
+llm=ChatOpenAI(openai_api_key=KEY,model_name='gpt-4o',temperature=0.7)
 
 TEMPLATE="""
 Text:{text}

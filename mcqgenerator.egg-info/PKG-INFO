@@ -8,3 +8,6 @@ Requires-Dist: langchain
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: langchain-community
